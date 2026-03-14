@@ -18,15 +18,7 @@
   <h2>꒰ 🍙 ꒱ؘ ࿐ ࿔*:･ﾟIDEs</h2>
   <img align="center" alt="akemi-VScode" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
 
-</div>
-
-# ⋆˚✿🍥𐙚⋆˚Contacts.
-
-<div>
-  <a href="https://guns.lol/akemiix">
-  guns.lol
-
-</div>
+<br>
 <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maryavvdev/maryavvdev/output/github-contribution-grid-snake-dark.svg">
